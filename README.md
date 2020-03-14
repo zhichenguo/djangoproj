@@ -4,7 +4,7 @@ Prototype REST API in Python Django
 <p>First things first, let's pull this repository to your local machine:</p>
 <pre><code>git clone https://github.com/zhichenguo/djangoproj.git</code></pre>
 
-<p>To create a new environment simply run:</p>
+<p>Recommend Python version 3.8. To create a new environment simply run:</p>
 <pre><code>conda create --name dj_env python=3.8 -y</code></pre>
 <p>Once it's created you can activate it by running:</p>
 <pre><code>conda activate dj_env</code></pre>
