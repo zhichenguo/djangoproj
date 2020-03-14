@@ -1,7 +1,7 @@
 # djangoproj
 Prototype REST API in Python Django
 
-<p>First things first, let's pull this repository to your local machine:</p>
+<p>First, download this repository or pull this repository to your local machine:</p>
 <pre><code>git clone https://github.com/zhichenguo/djangoproj.git</code></pre>
 
 <p>Recommend Python version 3.8. To create a new environment simply run:</p>
