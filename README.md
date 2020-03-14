@@ -16,6 +16,6 @@ Prototype REST API in Python Django
 <pre><code>python manage.py runserver</code></pre>
 
 <p>Please create a new terminal and navigate to <code>djangoproj/restapiproj/</code> directory, then run the following commands for testing:</p>
-<pre><code>pip install -r requirements.txt</code></pre>
+<pre><code>python manage.py test</code></pre>
 
 <p>For more testing information please read the attached file "test_instuctions.pdf"</p>
