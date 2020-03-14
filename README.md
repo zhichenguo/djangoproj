@@ -18,6 +18,5 @@ Prototype REST API in Python Django
 <p>Please create a new terminal and navigate to <code>djangoproj/restapiproj/</code> directory, then run the following commands for testing:</p>
 <pre><code>python manage.py test</code></pre>
 
-<p>Alternatively, open the Django site with any browser to test the features directly: </p>
-<link http://127.0.0.1:8000/admin/login/?next=/admin/">
+<p>Alternatively, the Django site can be assessed via <a href="http://127.0.0.1:8000/admin/login/?next=/admin/" rel="nofollow">http://127.0.0.1:8000/admin/login/?next=/admin/</a> with any browser to test the features directly: </p>
 
