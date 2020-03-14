@@ -27,5 +27,6 @@ Prototype REST API in Python Django
 <p><a href="http://127.0.0.1:8000/answer/">http://127.0.0.1:8000/answer/</a> to test question API view </p>
 <p><a href="http://127.0.0.1:8000/questionbookmark/">http://127.0.0.1:8000/questionbookmark/</a> to test question API view </p>
 <p><a href="http://127.0.0.1:8000/answerbookmark/">http://127.0.0.1:8000/answerbookmark/</a> to test question API view </p>
+<p>The un-superusers only can see their own bookmarks.</p>
 
 
