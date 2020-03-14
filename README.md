@@ -21,7 +21,7 @@ Prototype REST API in Python Django
 
 <p>Alternatively, the Django site can be assessed via <a href="http://127.0.0.1:8000/admin/login/?next=/admin/" rel="nofollow">http://127.0.0.1:8000/admin/login/?next=/admin/</a> with any browser to test the features directly: </p>
 
-<p>Login with the superuser <code>username:john    password:John123456</code> to test the database.</p>
+<p>Login with the superuser <code>username:john    password:John123456</code> to test the database structures.</p>
 <p>Or, login with one of the un-superuser <code>username:bill    password:Bill123456</code> and <code>username:chris    password:Chris123456</code> to test the features of the API views.</p>
 
 <p><a href="http://127.0.0.1:8000/question/">http://127.0.0.1:8000/question/</a> to test question API view </p>
