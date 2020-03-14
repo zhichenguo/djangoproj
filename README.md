@@ -24,9 +24,9 @@ Prototype REST API in Python Django
 <p>Or, login with one of the un-superuser <code>username: bill    password: Bill123456</code> and <code>username: chris    password: Chris123456</code> to test the features of the API views.</p>
 
 <p><a href="http://127.0.0.1:8000/question/">http://127.0.0.1:8000/question/</a> to test question API view </p>
-<p><a href="http://127.0.0.1:8000/answer/">http://127.0.0.1:8000/answer/</a> to test question API view </p>
-<p><a href="http://127.0.0.1:8000/questionbookmark/">http://127.0.0.1:8000/questionbookmark/</a> to test question API view </p>
-<p><a href="http://127.0.0.1:8000/answerbookmark/">http://127.0.0.1:8000/answerbookmark/</a> to test question API view </p>
+<p><a href="http://127.0.0.1:8000/answer/">http://127.0.0.1:8000/answer/</a> to test answer API view </p>
+<p><a href="http://127.0.0.1:8000/questionbookmark/">http://127.0.0.1:8000/questionbookmark/</a> to test question bookmark API view </p>
+<p><a href="http://127.0.0.1:8000/answerbookmark/">http://127.0.0.1:8000/answerbookmark/</a> to test answer bookmark API view </p>
 <p>The un-superusers only can see their own bookmarks.</p>
 
 
