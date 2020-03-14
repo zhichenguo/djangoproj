@@ -12,10 +12,12 @@ Prototype REST API in Python Django
 <p>Please navigate to <code>djangoproj/</code> directory, then run the following commands to install all the package required:</p>
 <pre><code>pip install -r requirements.txt</code></pre>
 
-<p>Run the following commands to start the django development server:</p>
+<p>Run the following commands to start the Django development server:</p>
 <pre><code>python manage.py runserver</code></pre>
 
 <p>Please create a new terminal and navigate to <code>djangoproj/restapiproj/</code> directory, then run the following commands for testing:</p>
 <pre><code>python manage.py test</code></pre>
 
-<p>For more testing information please read the attached file "test_instuctions.pdf"</p>
+<p>Alternatively, open the Django site with any browser to test the features directly: </p>
+<link http://127.0.0.1:8000/admin/login/?next=/admin/">
+
